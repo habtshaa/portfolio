@@ -1,6 +1,12 @@
 {
   "cafeterias": [
-    { "title": "Fresh Cafeteria", "longitude": 37.884694942578946, "latitude": 7.550012872256878 },
-    { "title": "Senior Cafeteria", "longitude": 37.88328049105205, "latitude": 7.550264010517931 }
+    { "title": "Fresh Cafeteria", 
+      "longitude": 37.884694942578946, 
+      "latitude": 7.550012872256878 
+    },
+    { "title": "Senior Cafeteria", 
+      "longitude": 37.88328049105205, 
+      "latitude": 7.550264010517931 
+    }
   ]
 }
