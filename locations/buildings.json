@@ -10,7 +10,7 @@
     "image": "",
     "link": "",
     "id": "Dorm 204",
-    "description": "This is testing"
+    "description": ""
   },
   {
     "title": "Computational Library",
@@ -22,21 +22,8 @@
     "latitude": 7.5563189323731255,
     "image": "",
     "link": "",
-    "id": "zimmermanlibrary",
+    "id": "",
     "description": "This is testing"
-  },
-  {
-    "title": "Medicine Library",
-    "buildingnum": "",
-    "abbr": "",
-    "campus": "WCU Main Campus",
-    "keywords": "",
-    "longitude": 37.884777712675856,
-    "latitude": 7.556290013026382,
-    "image": " ",
-    "link": " ",
-    "id": "parishlibrary",
-    "description": "Medicine Library"
   }
 ]
 
