@@ -4,12 +4,12 @@
     "buildingnum": "",
     "abbr": "",
     "campus": "Albuquerque Campus",
-    "keywords": "library",
+    "keywords": " ",
     "longitude": 37.88571441648659,
     "latitude": 7.551242327853524,
     "image": " ",
     "link": " ",
-    "id": "zimmermanlibrary",
+    "id": " ",
     "description": "This is testing"
   },
   {
@@ -22,20 +22,20 @@
     "latitude": 7.551215783131601,
     "image": " ",
     "link": " ",
-    "id": "parishlibrary",
-    "description": "Medicine Library"
+    "id": " ",
+    "description": "   "
   },
   {
     "title": "Toilet 3",
     "buildingnum": " ",
     "abbr": "",
-    "campus": "Albuquerque Campus",
-    "keywords": "hsc health",
+    "campus": "  main Campus",
+    "keywords": "   ",
     "longitude": 37.88341347269384,
     "latitude": 7.556292363805936,
     "image": " ",
     "link": " ",
-    "id": "healthscienceslibrary",
+    "id": " ",
     "description": " "
   },
   {
@@ -48,7 +48,7 @@
     "latitude": 37.88534661912104,
     "image": " ",
     "link": " ",
-    "id": "fineartslibrary",
+    "id": " ",
     "description": " "
   },
   {
@@ -61,7 +61,7 @@
     "latitude": 37.883278617739315,
     "image": " ",
     "link": " ",
-    "id": "fineartslibrary",
+    "id": " ",
     "description": " "
   }
 ]
