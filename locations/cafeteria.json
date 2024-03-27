@@ -12,58 +12,6 @@
     "id": "fineartslibrary",
     "description": " "
   },
-  {
-    "title": "Finance Office",
-    "buildingnum": "207",
-    "abbr": "",
-    "campus": "",
-    "keywords": "",
-    "longitude": 37.883756576008096,
-    "latitude": 7.553903911305811,
-    "image": "",
-    "link": "",
-    "id": "financeoffice",
-    "description": ""
-  },
-  {
-    "title": "SWE Head Office",
-    "buildingnum": "206",
-    "abbr": "",
-    "campus": "",
-    "keywords": "",
-    "longitude": 37.88357192873019,
-    "latitude": 7.553601326887693,
-    "image": "",
-    "link": "",
-    "id": "sweheadoffice",
-    "description": ""
-  },
-  {
-    "title": "Kemal LTH",
-    "buildingnum": "201",
-    "abbr": "",
-    "campus": "",
-    "keywords": "",
-    "longitude": 37.88388844014326,
-    "latitude": 7.554301052129848,
-    "image": "",
-    "link": "",
-    "id": "kemallth",
-    "description": ""
-  },
-  {
-    "title": "LTH 6",
-    "buildingnum": "LTH 6",
-    "abbr": "",
-    "campus": "",
-    "keywords": "",
-    "longitude": 37.88357486465789,
-    "latitude": 7.554607449253029,
-    "image": "",
-    "link": "",
-    "id": "lth6",
-    "description": ""
-  },
   { 
     "title": "Senior Cafeteria",
     "buildingnum": "",
