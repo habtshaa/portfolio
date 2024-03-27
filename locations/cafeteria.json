@@ -1,5 +1,4 @@
-{
-  "cafeterias": [
+ [
     { "title": "Fresh Cafeteria", 
       "longitude": 37.884694942578946, 
       "latitude": 7.550012872256878 
@@ -9,4 +8,3 @@
       "latitude": 7.550264010517931 
     }
   ]
-}
