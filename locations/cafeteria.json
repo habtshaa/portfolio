@@ -1,10 +1,28 @@
 [
-  { "title": "Fresh Cafeteria", 
-    "longitude": 37.884694942578946, 
-    "latitude": 7.550012872256878 
+  { 
+    "title": "Fresh Cafeteria",
+    "buildingnum": "",
+    "abbr": "",
+    "campus": "WCU Main Campus",
+    "keywords": "",
+    "longitude": 37.884694942578946,
+    "latitude": 7.550012872256878,
+    "image": " ",
+    "link": " ",
+    "id": "fineartslibrary",
+    "description": " "
   },
-  { "title": "Senior Cafeteria", 
-    "longitude": 37.88328049105205, 
-    "latitude": 7.550264010517931 
+  { 
+    "title": "Senior Cafeteria",
+    "buildingnum": "",
+    "abbr": "",
+    "campus": "WCU Main Campus",
+    "keywords": "",
+    "longitude": 37.88328049105205,
+    "latitude": 7.550264010517931,
+    "image": " ",
+    "link": " ",
+    "id": "fineartslibrary",
+    "description": " "
   }
 ]
