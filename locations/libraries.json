@@ -1,24 +1,22 @@
-{
-  "libraries": [
-    {
-      "title": "Computational Library",
-      "longitude": 37.883836625380894,
-      "latitude": 7.5563189323731255
-    },
-    {
-      "title": "Medicine Library",
-      "longitude": 37.884777712675856,
-      "latitude": 7.556290013026382
-    },
-    {
-      "title": "Social Library",
-      "longitude": 37.88368827686649,
-      "latitude": 7.547889953671918
-    },
-    {
-      "title": "Tecno Library",
-      "longitude": 37.88486339820967,
-      "latitude": 7.5521982216173
-    },
-  ]
-}
+[
+  {
+    "title": "Computational Library",
+    "longitude": 37.883836625380894,
+    "latitude": 7.5563189323731255
+  },
+  {
+    "title": "Medicine Library",
+    "longitude": 37.884777712675856,
+    "latitude": 7.556290013026382
+  },
+  {
+    "title": "Social Library",
+    "longitude": 37.88368827686649,
+    "latitude": 7.547889953671918
+  },
+  {
+    "title": "Tecno Library",
+    "longitude": 37.88486339820967,
+    "latitude": 7.5521982216173
+  }
+]
