@@ -1,0 +1,80 @@
+[
+  {
+    "title": "Wa Geda Lounge",
+    "buildingnum": "",
+    "abbr": "",
+    "campus": "WCU Main Campus",
+    "keywords": "library",
+    "longitude": 37.88357325520914,
+    "latitude": 7.555805789874448,
+    "image": "",
+    "link": "",
+    "id": "zimmermanlibrary",
+    "description": ""
+  },
+  {
+    "title": "Geda Lounge",
+    "buildingnum": "",
+    "abbr": "",
+    "campus": "WCU Main Campus",
+    "keywords": "library",
+    "longitude": 37.885670527187145,
+    "latitude": 7.5568915556742855,
+    "image": "",
+    "link": "",
+    "id": "geda Lounge",
+    "description": ""
+  },
+  {
+    "title": "Mercy Lounge",
+    "buildingnum": "",
+    "abbr": "",
+    "campus": "WCU Main Campus",
+    "keywords": "library",
+    "longitude": 37.88534161393293,
+    "latitude": 7.552865530246154,
+    "image": "",
+    "link": "",
+    "id": "Mercy Lounge",
+    "description": ""
+  },
+  {
+    "title": "Durame 1 Lounge",
+    "buildingnum": "",
+    "abbr": "",
+    "campus": "WCU Main Campus",
+    "keywords": "library",
+    "longitude": 37.88361607949386,
+    "latitude": 7.549171262901182,
+    "image": "",
+    "link": "",
+    "id": "durame 1 Lounge",
+    "description": ""
+  },
+  {
+    "title": "Terfe Lounge",
+    "buildingnum": "",
+    "abbr": "",
+    "campus": "WCU Main Campus",
+    "keywords": "library",
+    "longitude": 37.88346313956287,
+    "latitude": 7.5459432413405425,
+    "image": "",
+    "link": "",
+    "id": "terfe Lounge",
+    "description": ""
+  },
+  {
+    "title": "Memeheran Lounge",
+    "buildingnum": "",
+    "abbr": "",
+    "campus": "WCU Main Campus",
+    "keywords": "",
+    "longitude": 37.883676562917756,
+    "latitude": 7.5530229332803165,
+    "image": " ",
+    "link": " ",
+    "id": "zollingerlibrary",
+    "description": ""
+  }
+]

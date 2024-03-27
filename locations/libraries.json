@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Computational Library",
+    "buildingnum": "",
+    "abbr": "",
+    "campus": "WCU Main Campus",
+    "keywords": "library",
+    "longitude": 37.883836625380894,
+    "latitude": 7.5563189323731255,
+    "image": " ",
+    "link": " ",
+    "id": "",
+    "description": " "
+  },
+  {
+    "title": "Medicine Library",
+    "buildingnum": "",
+    "abbr": "",
+    "campus": "WCU Main Campus",
+    "keywords": "",
+    "longitude": 37.884777712675856,
+    "latitude": 7.556290013026382,
+    "image": " ",
+    "link": " ",
+    "id": "",
+    "description": "Medicine Library"
+  },
+  {
+    "title": "Social Library",
+    "buildingnum": " ",
+    "abbr": "",
+    "campus": "Albuquerque Campus",
+    "keywords": "hsc health",
+    "longitude": 37.88368827686649,
+    "latitude": 7.547889953671918,
+    "image": " ",
+    "link": " ",
+    "id": "",
+    "description": " "
+  },
+  {
+    "title": "Tecno Library",
+    "buildingnum": "",
+    "abbr": "",
+    "campus": "WCU Main Campus",
+    "keywords": "",
+    "longitude": 37.88486339820967,
+    "latitude": 7.5521982216173,
+    "image": " ",
+    "link": " ",
+    "id": "",
+    "description": " "
+  },
+  {
+    "title": "Fresh Library",
+    "buildingnum": "",
+    "abbr": "",
+    "campus": "WCU Main Campus",
+    "keywords": "",
+    "longitude": 37.883278617739315,
+    "latitude": 7.552101440206236,
+    "image": " ",
+    "link": " ",
+    "id": "",
+    "description": " "
+  }
+]
+

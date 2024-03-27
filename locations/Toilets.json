@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Toilet 1",
+    "buildingnum": "",
+    "abbr": "",
+    "campus": "Albuquerque Campus",
+    "keywords": "library",
+    "longitude": 37.88571441648659,
+    "latitude": 7.551242327853524,
+    "image": " ",
+    "link": " ",
+    "id": "zimmermanlibrary",
+    "description": "This is testing"
+  },
+  {
+    "title": "Toilet 2",
+    "buildingnum": "",
+    "abbr": "",
+    "campus": "WCU Main Campus",
+    "keywords": "",
+    "longitude": 37.88602681409094,
+    "latitude": 7.551215783131601,
+    "image": " ",
+    "link": " ",
+    "id": "parishlibrary",
+    "description": "Medicine Library"
+  },
+  {
+    "title": "Toilet 3",
+    "buildingnum": " ",
+    "abbr": "",
+    "campus": "Albuquerque Campus",
+    "keywords": "hsc health",
+    "longitude": 37.88341347269384,
+    "latitude": 7.556292363805936,
+    "image": " ",
+    "link": " ",
+    "id": "healthscienceslibrary",
+    "description": " "
+  },
+  {
+    "title": "Toilet 4",
+    "buildingnum": "",
+    "abbr": "",
+    "campus": "WCU Main Campus",
+    "keywords": "",
+    "longitude": 7.554397529577884,
+    "latitude": 37.88534661912104,
+    "image": " ",
+    "link": " ",
+    "id": "fineartslibrary",
+    "description": " "
+  },
+  {
+    "title": "Toilet 5",
+    "buildingnum": "",
+    "abbr": "",
+    "campus": "WCU Main Campus",
+    "keywords": "",
+    "longitude": 7.552101440206236,
+    "latitude": 37.883278617739315,
+    "image": " ",
+    "link": " ",
+    "id": "fineartslibrary",
+    "description": " "
+  }
+]
+
