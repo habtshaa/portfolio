@@ -1,1 +1,67 @@
-
+[
+{
+  "title": "Computation Library",
+  "buildingnum": "Computation Library",
+  "abbr": "",
+  "campus": "",
+  "keywords": "",
+  "longitude": 37.8838719403524,
+  "latitude": 7.556304026012972,
+  "image": "",
+  "link": "",
+  "id": "computationlibrary",
+  "description": ""
+},
+{
+  "title": "Medicine Library",
+  "buildingnum": "Medicine Library",
+  "abbr": "",
+  "campus": "",
+  "keywords": "",
+  "longitude": 37.88479922354788,
+  "latitude": 7.556277509739356,
+  "image": "",
+  "link": "",
+  "id": "medicinelibrary",
+  "description": ""
+},
+{
+  "title": "Tecno Library",
+  "buildingnum": "Tecno Library",
+  "abbr": "",
+  "campus": "",
+  "keywords": "",
+  "longitude": 37.88492405014057,
+  "latitude": 7.55207024032474,
+  "image": "",
+  "link": "",
+  "id": "tecnolibrary",
+  "description": ""
+},
+{
+  "title": "Fresh Library",
+  "buildingnum": "Fresh Library",
+  "abbr": "",
+  "campus": "",
+  "keywords": "",
+  "longitude": 37.883212142702746,
+  "latitude": 7.552132112229825,
+  "image": "",
+  "link": "",
+  "id": "freshlibrary",
+  "description": ""
+},
+{
+  "title": "Social Library",
+  "buildingnum": "Social Library",
+  "abbr": "",
+  "campus": "",
+  "keywords": "",
+  "longitude": 37.8835955386528,
+  "latitude": 7.5478540910022485,
+  "image": "",
+  "link": "",
+  "id": "sociallibrary",
+  "description": ""
+}
+]
