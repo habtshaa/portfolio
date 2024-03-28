@@ -13,16 +13,16 @@
   "description": ""
 },
 {
-  "title": "Fresh Cafeteria",
-  "buildingnum": "Fresh Cafeteria",
+  "title": "Senior Cafeteria",
+  "buildingnum": "Senior Cafeteria",
   "abbr": "",
   "campus": "",
   "keywords": "",
-  "longitude": 37.88476355884104,
-  "latitude": 7.550258273418791,
+  "longitude": 37.88357770629296,
+  "latitude": 7.550063817987045,
   "image": "",
   "link": "",
-  "id": "freshcafeteria",
+  "id": "seniorcafeteria",
   "description": ""
 }
 ]
